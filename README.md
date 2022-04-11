@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @furqanajmal-tecspine
 - 👀 I’m interested in logic building and problem solving.
 - 🌱 I’m currently learning Payment Method Integrations.
-- 💞️ I’m looking to collaborate on a big project very soon.
+- 💞️ I’m looking to collaborate on a project very soon.
 - 📫 How to reach me - email me at furqanajmal.tecspine@gmail.com
 
 <!---
